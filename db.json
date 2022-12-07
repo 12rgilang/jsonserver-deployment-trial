@@ -8,6 +8,8 @@
     }
   ],
   
+  "category" : ["Drinks", "Snack", "Food"],
+  
   "products": [
     {
       "id": 1,
